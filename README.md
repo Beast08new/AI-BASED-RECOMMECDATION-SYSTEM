@@ -1,5 +1,16 @@
 # AI-BASED-RECOMMECDATION-SYSTEM
 
+NAME : A.BRITTO RAJ
+
+INTERN ID : CT04DZ331
+
+DOMAIN : JAVA
+
+DURATION : 4 WEEKS
+
+MENTOR : NEELA SANTHOSH KUMAR
+
+
 # Java Product Recommendation System using Apache Mahout
 
 ## Overview

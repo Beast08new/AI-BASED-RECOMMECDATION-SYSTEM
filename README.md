@@ -52,3 +52,7 @@ The project is aimed at beginners who want to learn how to build recommendation 
 6. The console will display recommended products for the specified user.
 
 ## Output
+
+https://github.com/user-attachments/assets/9e98d943-2c90-42e1-bd21-175d64cd739b
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/aff1f45e-1eee-4970-b874-75ecb341de55" />
